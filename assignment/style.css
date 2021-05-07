@@ -1,15 +1,15 @@
 /* Give your page a fun background color */
-body {background-color: #00af66;}
+body {background-color: #39499c;}
 /* Make the header and footer a different color from the background */
 h1 {color: #7e7f74; font-family: monospace; font-style: oblique;}
 /* Align the h1 containing your name in the center of the header*/
 h1 {text-align: center; font-size: 30px;}
 /* Make your p tag a different color and italic */
-p {font-style:italic; font-family:palatino, URW Palladio, serif; font-size: 20px; color: #726b77; font-weight: 200}
+p {font-style:italic; font-family:palatino, URW Palladio, serif; font-size: 20px; text-align: center; color: #726b77; font-weight: 200}
 /* Put a border around your image */
 img { border-radius: 8px; border: 8px solid #726b77;}
 /* Change the font-family of your list */
-ul {font-family:monospace; font-size: 15px; color: #a47449;}
+ul {font-family:monospace; font-size: 15px; color: #a47449; text-align: center; border: 8px #726b77;}
 
 img {
   display: block;
