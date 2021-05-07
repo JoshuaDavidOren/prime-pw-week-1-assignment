@@ -11,4 +11,9 @@ p {font-style:italic; font-family:palatino, URW Palladio, serif; font-size: 20px
 /* Change the font-family of your list */
 ul {font-family:monospace; font-size: 15px; color: #a47449;}
 
-a {size: 50%;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
