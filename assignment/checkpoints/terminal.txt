@@ -1,7 +1,7 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
-ls 
+ls
 # 2 - What is the command for changing directories?
 cd "name of file you are trying to go"
 # 3 - What is the command for going "up" a folder (to a parent directory)?
@@ -19,4 +19,4 @@ to see the status of the files git is in, or to see if you have added git to the
 # 9 - What does the command 'git add .' do?
 "git add ." adds any of your newly saved changes, to be committed, and then pushed to github.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push -u origin master
+git push -u origin master.
